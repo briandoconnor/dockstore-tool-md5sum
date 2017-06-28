@@ -6,7 +6,7 @@ task md5 {
   }
 
  output {
-    File value = "md5sum.txt"
+    File value = "md5sum.result"
  }
 
  runtime {
