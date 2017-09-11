@@ -77,7 +77,7 @@ This is the parameterization of the md5sum tool, a copy is present in this repo 
     },
     "output_file": {
         "class": "File",
-        "path": "/tmp/md5sum.txt"
+        "path": "/tmp/md5sum.result"
     }
 }
 ```
